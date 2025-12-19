@@ -1,7 +1,8 @@
 ---
 title: El Docente Cuantico
-dg-publish: true
 ---
+
+Bienvenido a la nota del docente.
 
 # Detrás del Quijote Cuántico: Roberto Alejandro Lopez
 
