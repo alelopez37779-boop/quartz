@@ -1,5 +1,5 @@
 ---
-title: El Docente Cuantico
+title: docentecuantico
 ---
 
 Bienvenido a la nota del docente.
@@ -8,7 +8,7 @@ Bienvenido a la nota del docente.
 
 ¡Hola! Soy el autor de esta travesía. Mi propósito con *El Quijote Cuántico* y este **Jardín Digital** no es simplemente escribir un libro, sino encender una chispa en la comunidad educativa.
 
-### 🏹 Mi Misión
+### 🏹 Mi Misión  ++++
 Llevo años explorando la intersección entre la tecnología de punta y las filosofías perennes. Mi misión es empoderar a familias y docentes para que dejen de ser "esclavos del sistema" y se conviertan en **soberanos de su propio aprendizaje**.
 
 ### 🛠️ CEE-Elite y el Taller
