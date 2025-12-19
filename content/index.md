@@ -10,10 +10,10 @@ Has salido de las páginas del libro para entrar en un **espacio vivo**. Este no
 ### 🧩 Explora los Conceptos Clave
 Haz clic en los enlaces de abajo o usa el **Mapa de Conexiones** a la derecha para navegar:
 
-* [[El Docente Cuántico]]: Conoce al guía de esta travesía.
-* [[El Triángulo Cuántico]]: La síntesis entre Montessori, Homeschooling y Tecnología.
-* [[Sabiduría Védica e IA]]: ¿Cómo se unen los antiguos sutras con los algoritmos modernos?
-* [[Educación Gurukula]]: El modelo de aprendizaje que estamos rescatando.
+* [[Autor y Mision|El Docente Cuántico]]: Conoce al guía de esta travesía.
+* [[Triangulo Cuantico|El Triángulo Cuántico]]: La síntesis entre Montessori, Homeschooling y Tecnología.
+* [[Sabiduria Vedica IA|Sabiduría Védica e IA]]: ¿Cómo se unen los antiguos sutras con los algoritmos modernos?
+* [[Educacion Gurukula|Educación Gurukula]]: El modelo de aprendizaje que estamos rescatando.
 
 ---
 
