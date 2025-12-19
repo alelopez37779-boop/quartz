@@ -1,5 +1,5 @@
 ---
-title: El Docente Cuántico
+title: El Docente Cuantico
 dg-publish: true
 ---
 
