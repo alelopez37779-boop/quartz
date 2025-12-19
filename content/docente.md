@@ -1,5 +1,5 @@
 ---
-title: "👨‍🎨 El Autor y la Misión"
+title: El Docente Cuántico
 dg-publish: true
 ---
 
