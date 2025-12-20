@@ -26,4 +26,4 @@ Este jardín es apenas el comienzo. Te invito a que no seas un espectador pasivo
 ---
 > *"No busco seguidores, busco caballeros y damas andantes dispuestos a enfrentar los gigantes de la ignorancia con la lanza de la conciencia."*
 
-**Volver al [[Inicio]]**
+**Volver al [[index|Inicio]]**
