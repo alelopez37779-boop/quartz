@@ -50,7 +50,7 @@ Este jardín crece con tus ideas. Si eres lector y quieres proponer un nuevo enf
 
 <p align="center" style="font-size: 0.85rem; color: gray;">
 © 2025 Roberto Alejandro Lopez. Todos los derechos reservados.<br>
-<b>El Quijote Cuántico™</b> y <b>Cee-Elitebykris™</b> son marcas comerciales en proceso de registro.<br>
+<b>El Quijote Cuántico™</b> y <b>Cee-Elitebykrish™</b> son marcas comerciales en proceso de registro.<br>
 El contenido de este Jardín Digital, incluyendo el Manifiesto y la metodología del Taller, está protegido por las leyes de Propiedad Intelectual. Prohibida su reproducción total o parcial sin autorización expresa del autor.<br>
 <i>Innovación con Propósito • Sabiduría Védica • Tecnología para la Consciencia</i>
 </p>
