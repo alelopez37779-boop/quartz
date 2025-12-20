@@ -1,4 +1,4 @@
-<img src="/static/encabezado.png" width="220" style="display: block; margin: 0 auto;">
+<img src="/static/encabezado.png" width="400" style="display: block; margin: 0 auto;">
 
 # ⚔️El Quijote Cuántico
 ### Taller Digital • Innovación • Consciencia
