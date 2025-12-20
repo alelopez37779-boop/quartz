@@ -21,4 +21,4 @@ Aquí es donde nos volvemos **Cuánticos**. No tememos a la IA; la usamos como u
 > *"Cuando estos tres puntos se unen, el aula desaparece y el universo entero se convierte en el salón de clases."*
 
 **¿Cómo aplicas esto hoy?**
-Explora más sobre el modelo [[Educación Gurukula]] o vuelve al [[Inicio]].
+Explora más sobre el modelo [[Educación Gurukula]] o vuelve al [[index|Inicio]].
