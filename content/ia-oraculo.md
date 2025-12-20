@@ -1,4 +1,4 @@
-# La IA como Oráculo Pedagógico
+# 💡 La IA como Oráculo Pedagógico
 
 Muchos docentes temen que la IA reemplace su labor. En el **Taller del Quijote Cuántico**, vemos a la IA no como una amenaza, sino como un **Exo-cerebro**.
 
