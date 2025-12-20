@@ -26,3 +26,22 @@ Este ecosistema se rige por cinco pilares fundamentales que guían nuestra tecno
 * 🏛️ **Fundación & Cee-Elitebykris**: Transformación social y excelencia educativa.
 
 ---
+
+### 🧩 Explora los Conceptos Clave
+Haz clic en los enlaces de abajo o usa el **Mapa de Conexiones** a la derecha para navegar:
+
+* [[docentecuantico|El Docente Cuantico]]: Conoce al guía de esta travesía.
+* [[triangulo-cuantico|El Triángulo Cuántico]]: La síntesis entre Montessori, Homeschooling y Tecnología.
+* [[sabiduria-vedica-e-ia|Sabiduría Védica e IA]]: ¿Cómo se unen los antiguos sutras con los algoritmos modernos?
+* [[educacion-gurukula|Educación Gurukula]]: El modelo de aprendizaje que estamos rescatando.
+* [[ia-oraculo|La IA como oraculo]]:En el **Taller del Quijote Cuántico**, vemos a la IA no como una amenaza, sino como un **Exo-cerebro**.
+* [[observador-realidad|El Observador y la Realidad Áulica]]:La física cuántica nos ha revelado que el acto de observar modifica lo observado. En el aula, esta verdad científica se convierte en una ley pedagógica.
+* [[pedagogia-quijote|La Pedagogía del Quijote]]:Idealismo en Acción
+  
+---
+
+### 📩 Planta tu Semilla
+Este jardín crece con tus ideas. Si eres lector y quieres proponer un nuevo enfoque para la educación consciente, participa en nuestro taller de co-creación, escribeme por privado: alelopez37779@gmail.com
+
+"No estamos aquí para reformar la educación, sino para recordarla."
+— *Roberto Alejandro Lopez*
