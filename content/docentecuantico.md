@@ -11,8 +11,8 @@ Bienvenido a la nota del docente.
 ### 🏹 Mi Misión  ++++
 Llevo años explorando la intersección entre la tecnología de punta y las filosofías perennes. Mi misión es empoderar a familias y docentes para que dejen de ser "esclavos del sistema" y se conviertan en **soberanos de su propio aprendizaje**.
 
-### 🛠️ CEE-Elite y el Taller
-Este libro es la base teórica de algo mucho más grande. A través de **CEE-Elite**, buscamos crear espacios reales de transformación donde:
+### 🛠️ CEE-ElitebyKrish  y el Taller
+Este libro es la base teórica de algo mucho más grande. A través de **CEE-ElitebyKrish**, buscamos crear espacios reales de transformación donde:
 * La **Inteligencia Artificial** trabaje para el ser humano.
 * El **Homeschooling** sea la vanguardia educativa.
 * La **Conciencia** sea el eje de cada lección.
