@@ -1,4 +1,7 @@
-# 📚 El Observador y la Realidad Áulica
+---
+title: "📚 El Observador y la Realidad Áulica"
+dg-publish: true
+---
 
 La física cuántica nos ha revelado que el acto de observar modifica lo observado. En el aula, esta verdad científica se convierte en una **ley pedagógica**.
 
