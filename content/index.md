@@ -14,7 +14,7 @@ Haz clic en los enlaces de abajo o usa el **Mapa de Conexiones** a la derecha pa
 * [[triangulo-cuantico|El Triángulo Cuántico]]: La síntesis entre Montessori, Homeschooling y Tecnología.
 * [[sabiduria-vedica-e-ia|Sabiduría Védica e IA]]: ¿Cómo se unen los antiguos sutras con los algoritmos modernos?
 * [[educacion-gurukula|Educación Gurukula]]: El modelo de aprendizaje que estamos rescatando.
-
+* [[ia-oraculo|La IA como oraculo]]:En el **Taller del Quijote Cuántico**, vemos a la IA no como una amenaza, sino como un **Exo-cerebro**.
 ---
 
 ### 🔮 El Oráculo del Taller
