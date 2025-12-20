@@ -19,7 +19,7 @@ export default ((opts?: Options) => {
             © {year} Roberto Alejandro Lopez. Todos los derechos reservados.
           </p>
           <p style={{ fontSize: "0.85rem", color: "var(--gray)", margin: "0.5rem 0" }}>
-            <b>El Quijote Cuántico™</b> y <b>Cee-Elitebykris™</b> son marcas comerciales en proceso de registro.
+            <b>El Quijote Cuántico™</b> y <b>Cee-Elitebykrish™</b> son marcas comerciales en proceso de registro.
           </p>
           <p style={{ fontSize: "0.8rem", fontStyle: "italic", color: "var(--secondary)" }}>
             Innovación con Propósito • Sabiduría Védica • Tecnología para la Consciencia
