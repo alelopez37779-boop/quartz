@@ -5,7 +5,7 @@ dg-publish: true
 
 # Bienvenido al Taller del Quijote Cuántico
 
-Has salido de las páginas del libro para entrar en un **espacio vivo**. Este no es un sitio web tradicional; es un **Jardín Digital** donde las ideas se entrelazan como neuronas.
+Has salido de las páginas del libro para entrar en un **espacio vivo**. Este no es un sitio web tradicional; es un **Jardín Digital** donde las ideas se entrelazan como neuronas y tu puedes ser cocreador de nuevas propuestas y conceptos.
 
 ### 🧩 Explora los Conceptos Clave
 Haz clic en los enlaces de abajo o usa el **Mapa de Conexiones** a la derecha para navegar:
