@@ -11,9 +11,9 @@ Has salido de las páginas del libro para entrar en un **espacio vivo**. Este no
 Haz clic en los enlaces de abajo o usa el **Mapa de Conexiones** a la derecha para navegar:
 
 * [[docentecuantico|El Docente Cuantico]]: Conoce al guía de esta travesía.+++
-* [[Triangulo-Cuantico|El Triángulo Cuántico]]: La síntesis entre Montessori, Homeschooling y Tecnología.
-* [[Sabiduria-Vedica-e-IA|Sabiduría Védica e IA]]: ¿Cómo se unen los antiguos sutras con los algoritmos modernos?
-* [[Educacion-Gurukula|Educación Gurukula]]: El modelo de aprendizaje que estamos rescatando.
+* [[triangulo-cuantico|El Triángulo Cuántico]]: La síntesis entre Montessori, Homeschooling y Tecnología.
+* [[sabiduria-vedica-e-ia|Sabiduría Védica e IA]]: ¿Cómo se unen los antiguos sutras con los algoritmos modernos?
+* [[educacion-gurukula|Educación Gurukula]]: El modelo de aprendizaje que estamos rescatando.
 
 ---
 
