@@ -1,5 +1,5 @@
 ---
-title: docentecuantico
+title: "👨‍🎨 El Docente Cuantico"
 ---
 
 Bienvenido a la nota del docente.
