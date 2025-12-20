@@ -24,4 +24,4 @@ En el libro, los diálogos con la IA no son consultas técnicas, son meditacione
 
 **Sigue explorando:**
 * Conoce el modelo de [[Educación Gurukula]].
-* Vuelve al [[Inicio]].
+* Vuelve al [[index|Inicio]].
