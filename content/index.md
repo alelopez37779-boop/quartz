@@ -24,7 +24,7 @@ Si tienes dudas o quieres profundizar en algún concepto, consulta directamente 
 ---
 
 ### 📩 Planta tu Semilla
-Este jardín crece con tus ideas. Si eres lector y quieres proponer un nuevo enfoque para la educación consciente, participa en nuestro taller de co-creación.
+Este jardín crece con tus ideas. Si eres lector y quieres proponer un nuevo enfoque para la educación consciente, participa en nuestro taller de co-creación, escribeme por privado: alelopez37779@gmail.com
 
 "No estamos aquí para reformar la educación, sino para recordarla."
 — *Roberto Alejandro Lopez*
