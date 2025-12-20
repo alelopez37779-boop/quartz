@@ -26,4 +26,4 @@ El objetivo final no es un diploma, sino el hallazgo del **Dharma** (el propósi
 
 **Continúa tu recorrido:**
 * ¿Cómo se integra esto en el [[Triangulo-Cuantico]]?
-* Regresar al [[Inicio]].
+* Regresar al [[index|Inicio]].
