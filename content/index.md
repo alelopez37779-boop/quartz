@@ -21,7 +21,7 @@ Este ecosistema se rige por cinco pilares fundamentales que guían nuestra tecno
 
 ## 🚀 Explora el Ecosistema
 
-* 📖 **[El Libro en Amazon](TU_ENLACE_AQUÍ)**: La base filosófica de nuestra propuesta.
+* 📖 **[El Libro en Amazon](https://www.amazon.com/dp/B0FNNLXDP8?ref_=cm_sw_r_ffobk_cso_wa_mwn_dp_QTBBWT4CB1DF5KXGGHZF&bestFormat=true)**: La base filosófica de nuestra propuesta.
 * 🤖 **[Docente Cuántico (IA)](https://poe.com/DocenteCuantico)**: Tu copiloto pedagógico en tiempo real.
 * 🏛️ **Fundación & Cee-Elitebykris**: Transformación social y excelencia educativa.
 
