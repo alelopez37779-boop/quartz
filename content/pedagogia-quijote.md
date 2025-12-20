@@ -1,5 +1,7 @@
-# ⚔️La Pedagogía del Quijote: Idealismo en Acción
-
+---
+title: "⚔️La Pedagogía del Quijote: Idealismo en Acción"
+dg-publish: true
+---
 ¿Por qué llamar "Quijote" a un docente? Porque en un sistema educativo que parece un campo de molinos de viento gigantes (burocracia, estandarización, deshumanización), el docente soberano elige ver la **nobleza del espíritu**.
 
 ### El Acto Heroico de Educar
