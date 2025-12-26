@@ -163,13 +163,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
 
-  // --- MODIFICACIÓN DE LA SIMULACIÓN ---
-  // Se aumentan las fuerzas para evitar que los nodos se encimen
+  // --- FÍSICA MEJORADA PARA EVITAR QUE SE ENCIMEN ---
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
-    .force("charge", forceManyBody().strength(-350 * repelForce)) // Repulsión aumentada (antes -100)
+    .force("charge", forceManyBody().strength(-450 * repelForce)) 
     .force("center", forceCenter().strength(centerForce))
-    .force("link", forceLink(graphData.links).distance(linkDistance * 1.8)) // Conexiones más largas (antes linkDistance)
-    .force("collide", forceCollide<NodeData>((n) => nodeRadius(n) + 12).iterations(4)) // Escudo de colisión más grande
+    .force("link", forceLink(graphData.links).distance(linkDistance * 2.2)) 
+    .force("collide", forceCollide<NodeData>((n) => nodeRadius(n) + 18).iterations(4)) 
 
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
@@ -203,12 +202,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
-  // --- MODIFICACIÓN DEL RADIO DEL NODO ---
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    return 5 + Math.sqrt(numLinks) * 2 // Radio base aumentado para mayor separación física
+    return 7 + Math.sqrt(numLinks) * 3
   }
 
   let hoveredNodeId: string | null = null
@@ -253,12 +251,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const tweenGroup = new TweenGroup()
 
     for (const l of linkRenderData) {
-      let alpha = 1
+      let alpha = 0.25 
       if (hoveredNodeId) {
-        alpha = l.active ? 1 : 0.2
+        alpha = l.active ? 0.9 : 0.05 
       }
 
-      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
+      l.color = l.active ? computedStyleMap["--secondary"] : computedStyleMap["--lightgray"]
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -319,7 +317,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     for (const n of nodeRenderData) {
       let alpha = 1
       if (hoveredNodeId !== null && focusOnHover) {
-        alpha = n.active ? 1 : 0.2
+        alpha = n.active ? 1 : 0.1
       }
 
       tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
@@ -389,7 +387,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       interactive: true,
       label: nodeId,
       eventMode: "static",
-      hitArea: new Circle(0, 0, nodeRadius(n)),
+      hitArea: new Circle(0, 0, nodeRadius(n) + 10),
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
@@ -436,7 +434,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       simulationData: l,
       gfx,
       color: computedStyleMap["--lightgray"],
-      alpha: 1,
+      alpha: 0.2, 
       active: false,
     }
 
@@ -479,23 +477,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           }
         }),
     )
-  } else {
-    for (const node of nodeRenderData) {
-      node.gfx.on("click", () => {
-        const targ = resolveRelative(fullSlug, node.simulationData.id)
-        window.spaNavigate(new URL(targ, window.location.toString()))
-      })
-    }
   }
 
   if (enableZoom) {
     select<HTMLCanvasElement, NodeData>(app.canvas).call(
       zoom<HTMLCanvasElement, NodeData>()
-        .extent([
-          [0, 0],
-          [width, height],
-        ])
-        .scaleExtent([0.25, 4])
+        .extent([[0, 0], [width, height]])
+        .scaleExtent([0.05, 5])
         .on("zoom", ({ transform }) => {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
@@ -530,7 +518,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
       l.gfx
         .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.alpha, width: 1, color: l.color })
+        .stroke({ alpha: l.alpha, width: 0.4, color: l.color }) 
     }
 
     tweens.forEach((t) => t.update(time))
